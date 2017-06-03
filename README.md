@@ -65,11 +65,11 @@ git branch -d namabranch
 1. Klik Pull Request jika ada pull request
 2. Klik item yang ada
 3. Jika terdapat Konflik maka klik tombol Resolve Conflicts
-![alt tag](https://raw.githubusercontent.com/amanuDigm/TCCL_Docker-swarm/master/screen/Selection_002.png)
+![alt tag](https://raw.githubusercontent.com/amanuDigm/kolaborasi-tccl/master/screen/Selection_002.png)
 4. Edit/Hapus kode supaya tidak conflict
-![alt tag](https://raw.githubusercontent.com/amanuDigm/TCCL_Docker-swarm/master/screen/Selection_003.png)
+![alt tag](https://raw.githubusercontent.com/amanuDigm/kolaborasi-tccl/master/screen/Selection_003.png)
 5. Selanjutnya klik Mark as Resolved jika sudah selesai editnya
-![alt tag](https://raw.githubusercontent.com/amanuDigm/TCCL_Docker-swarm/master/screen/Selection_004.png)
+![alt tag](https://raw.githubusercontent.com/amanuDigm/kolaborasi-tccl/master/screen/Selection_004.png)
 6. Setelah itu Commit Changes
 7. Setelah di commit , selanjutnya klik tombol Merge Pull Request untuk menggabungkan source code ke branch master
-![alt tag](https://raw.githubusercontent.com/amanuDigm/TCCL_Docker-swarm/master/screen/Selection_005.png)
+![alt tag](https://raw.githubusercontent.com/amanuDigm/kolaborasi-tccl/master/screen/Selection_005.png)
