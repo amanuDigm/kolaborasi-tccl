@@ -1,5 +1,12 @@
 # kolaborasi-tccl
 
+Nama Anggota Kelompok
+145410034 Tri Hargianta		(colaborator)
+145410073 Erwin Robb P 		(colaborator) 
+135410203 Amanu Alatibi		( upstream)
+
+
+
 KOLABORATOR
 1. Pada situs github fork dulu repo yang akan dijadikan proyek bersama (repo upstream)
  
@@ -12,4 +19,5 @@ contoh perintah : git clone https://github.com/amanuDigm/kolaborasi-tccl.git
 git checkout -b namabranch	
  
 5. Edit kode program ….
+
 
