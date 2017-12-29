@@ -27,15 +27,15 @@ git checkout -b namabranch
 5. Edit kode README.md program
 
 6. commit kode yang telah di edit dengan mengetikan perintah sebagai berikut :
-	```bash
-  git add .
-	git commit -m “nama commit nya”
+```bash
+- git add .
+- git commit -m “nama commit nya”
   ```
 
 7. Kemudian push branch kita tadi ke repo origin dengan cara :  
-	```bash
-  git push origin namabranch
-  ```
+```bash
+git push origin namabranch
+```
 
 8. Buka repository di github, lalu klik New Pull Request
 
