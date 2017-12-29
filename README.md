@@ -28,8 +28,8 @@ git checkout -b namabranch
 
 6. commit kode yang telah di edit dengan mengetikan perintah sebagai berikut :
 ```bash
-- git add .
-- git commit -m “nama commit nya”
+git add .
+git commit -m “nama commit nya”
   ```
 
 7. Kemudian push branch kita tadi ke repo origin dengan cara :  
